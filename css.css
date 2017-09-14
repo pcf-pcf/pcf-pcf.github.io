@@ -1,3 +1,19 @@
 body{
-  background-color: #333;
+  background-color: #000 !important;
+  color: #fff !important;
+  font-family: monospace;
+}
+.name{
+  color: lawngreen;
+  text-transform: lowercase;
+  display: inline;
+
+}
+.barra{
+  color: dodgerblue;
+  display: inline;
+}
+.codigo{
+  text-align: left;
+  display: inline;
 }
